@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:id="@+id/linearLayout2"
-        android:layout_width="411dp"
+        android:layout_width="410dp"
         android:layout_height="156dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -45,7 +45,7 @@
         android:layout_height="100dp"
         android:layout_marginTop="28dp"
         android:text="This is the secord activity"
-        android:textSize="24sp"
+        android:textSize="23dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.727"
         app:layout_constraintStart_toStartOf="parent"
